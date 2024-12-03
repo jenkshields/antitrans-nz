@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Relationships",
-    "colorLabel": "Type",
+    "colorLabel": "Type: Green - NZ orgs, purple: NZ people, orange: events, teal: intl orgs, pink: intl people",
     "nodeLabel": "Actors"
   },
   "features": {
